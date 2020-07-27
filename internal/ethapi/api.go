@@ -44,7 +44,7 @@ import (
 	"github.com/incognito-core-libs/go-ethereum/params"
 	"github.com/incognito-core-libs/go-ethereum/rlp"
 	"github.com/incognito-core-libs/go-ethereum/rpc"
-	"github.com/hoang-incognito/go-bip39"
+	"incognito-core-libs/tyler-smith-go-bip39"
 )
 
 const (
